@@ -8,7 +8,7 @@
     - Size: 323 pt
     - Kerning has been modified.
 
-![Logo for projects associated with Fidryn Software. Version 0.0.1.](./dist/fidryn_software_logo_0.0.1_256x256.png)
+[![Logo for projects associated with Fidryn Software. Version 0.0.1.](dist/fidryn_software_logo_0.0.1_256x256.png)](dist/fidryn_software_logo_0.0.1_1024x1024.png)
 
 ## License
 
